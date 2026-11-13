@@ -140,17 +140,6 @@ I enjoy reading real-world code, tracking down bugs, writing tests, and learning
 
 ---
 
-## 🏙️ Contribution City
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=aditya25bcy10173-a11y&theme=aurora" width="100%" alt="GitHub contribution city hero"/>
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=aditya25bcy10173-a11y&theme=aurora" width="100%" alt="GitHub contribution city"/>
-</p>
-<p align="center"><sub>A visual snapshot of the journey built one contribution at a time.</sub></p>
-
----
 
 ## 🐍 Contribution Snake
 
