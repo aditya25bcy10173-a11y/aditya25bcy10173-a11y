@@ -1,88 +1,123 @@
-# Hey, I'm Aditya Kumar 👋
+<!-- Header -->
+<div align="center">
 
-🎓 **Computer Science Student** | 💻 **Developer** | 🌱 **Open-Source Contributor** | 🤖 **AI/ML Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Aditya%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20Source&descAlignY=58&descSize=17" width="100%" />
 
-I enjoy building software, exploring how systems work under the hood, and contributing to open-source projects. I'm currently strengthening my foundations in **Data Structures & Algorithms**, **full-stack development**, and **AI/ML** while working toward meaningful open-source contributions and **GSoC 2027**.
+<a href="https://github.com/aditya25bcy10173-a11y">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI%2C+ML+%26+Generative+AI;Learning+by+building+and+contributing;On+the+road+to+GSoC+2027" alt="Typing SVG" />
+</a>
 
----
-
-### 🚀 What I'm focused on
-
-- 🌍 Contributing to open-source projects and learning from real-world codebases
-- 🧠 Practising DSA and problem-solving with C++
-- 🤖 Exploring Machine Learning, Deep Learning, Generative AI, and RAG
-- 🛠️ Building practical projects and improving my software engineering skills
-- 🎯 Preparing for **Google Summer of Code 2027**
-
-### 🧰 Tech stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & App Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**AI/ML & Tools**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 🧪 Projects
-
-A few projects I've worked on:
-
-- **Mood-Based AI Chatbot** — A chatbot with mood-adaptive responses, built with Python, LangChain, and Streamlit.
-- **RAG Website Data Scraper** — Exploring retrieval-augmented generation over website content.
-- **Project LifeLine** — A project focused on building a practical web-based solution.
-- **ML/DL Projects** — Hands-on experiments in machine learning and deep learning.
-
-> Explore my repositories for source code, implementation details, and more projects.
-
-### 🌍 Open-source contributions
-
-I've been learning and contributing across real-world codebases, including **Rocket.Chat**, **Rocket.Chat.ReactNative**, **Rocket.Chat Docker Official Image**, and **Kubeflow Pipelines**.
-
-Some pull requests:
-
-| Project | Contribution |
-|---|---|
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/43705) | Mark empty states busy while search loads |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/43688) | Move ABAC logs mapping into paginated combine |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/43420) | Include repeating character count only when restriction is enabled |
-| [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7877) | Support compound cursors in missed messages sync |
-| [Rocket.Chat Docker Official Image](https://github.com/RocketChat/Docker.Official.Image/pull/303) | Improve Docker image README |
-| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines/pull/15478) | Handle unset inputs in ignore_upstream_failure |
-| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines/pull/15417) | Handle empty ParallelFor collected outputs |
-| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines/pull/15426) | Correctly classify optional generic parameter types |
-
-*PRs may be open, closed, or updated; check each link for its current status.*
-
----
-
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya25bcy10173-a11y&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25bcy10173-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p>
+  <a href="https://github.com/aditya25bcy10173-a11y"><img src="https://komarev.com/ghpvc/?username=aditya25bcy10173-a11y&style=for-the-badge&color=0e7490" alt="Profile views"/></a>
+  <img src="https://img.shields.io/badge/Focus-GSoC%202027-2563eb?style=for-the-badge" alt="GSoC 2027"/>
+  <img src="https://img.shields.io/badge/Contributions-163%20(as%20of%20Nov%202026)-16a34a?style=for-the-badge" alt="163 contributions as of November 2026"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditya25bcy10173-a11y&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+## 👋 About Me
+
+Hey! I'm **Aditya**, a computer science student who loves turning ideas into working projects. I enjoy exploring new technologies, solving problems, understanding large codebases, and learning by building.
+
+- 🎓 Computer Science student
+- 💻 Interested in software development, frontend engineering, and problem-solving
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and RAG**
+- 🌍 Contributing to real-world open-source projects
+- 🎯 Working toward **GSoC 2027** and a strong software engineering career
+- 📹 I also create videos on my YouTube channel — **Aditya 07 Vlogs**
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
 </p>
 
----
+### Frontend & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=dark" />
+</p>
 
-### 🤝 Let's connect
+### AI, ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
 
-- GitHub: [@aditya25bcy10173-a11y](https://github.com/aditya25bcy10173-a11y)
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,vscode,linux&theme=dark" />
+</p>
 
-I'm always happy to learn, collaborate, and contribute. Feel free to explore my repositories or connect! 😊
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Mood-Based AI Chatbot](https://github.com/aditya25bcy10173-a11y) | A chatbot that adapts its response style to different moods and personas. | Python, LangChain, Streamlit |
+| [RAG Website Data Scraper](https://github.com/aditya25bcy10173-a11y/RAG-website-data-scrape) | Collects website content as a foundation for retrieval-augmented generation workflows. | Python, GenAI, RAG |
+| [Traffic Predictor](https://github.com/aditya25bcy10173-a11y/Traffic-Predictor-project) | Machine-learning project focused on traffic prediction. | Python, Machine Learning |
+| [AI Detector](https://github.com/aditya25bcy10173-a11y/AI-DETECTOR-) | Explores AI-generated content detection. | AI/ML |
+| [Project LifeLine](https://github.com/aditya25bcy10173-a11y/Project-LifeLine) | A practical web development project. | HTML, CSS, JavaScript |
+| [Java Tourist Recommendation](https://github.com/aditya25bcy10173-a11y/JAVA-Tourist-recomendation-project) | Tourist recommendation project built with Java. | Java |
+
+## 🌐 Open Source
+
+I enjoy exploring production codebases, debugging issues, writing tests, and collaborating through pull requests. I've worked with projects including **Rocket.Chat**, **Rocket.Chat.ReactNative**, **Kubeflow Pipelines**, and **Rocket.Chat Docker Official Image**.
+
+[![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-Open%20Source- F5455C?style=flat-square)](https://github.com/RocketChat)
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-Contributor-0033AD?style=flat-square)](https://github.com/kubeflow)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya25bcy10173-a11y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25bcy10173-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=aditya25bcy10173-a11y&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditya25bcy10173-a11y&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya25bcy10173-a11y/aditya25bcy10173-a11y/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya25bcy10173-a11y/aditya25bcy10173-a11y/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aditya25bcy10173-a11y/aditya25bcy10173-a11y/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+## 🎯 Current Goals
+
+- Strengthen DSA and core computer science fundamentals
+- Build useful projects in frontend and AI/ML
+- Make consistent, meaningful open-source contributions
+- Prepare for **Google Summer of Code 2027**
+
+## 📺 Beyond Code
+
+I also run a YouTube channel, **Aditya 07 Vlogs**, where I share my vlogging journey.
+
+<div align="center">
+  <a href="https://www.youtube.com/results?search_query=Aditya+07+Vlogs">
+    <img src="https://img.shields.io/badge/YouTube-Aditya%2007%20Vlogs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Aditya 07 Vlogs on YouTube"/>
+  </a>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/aditya25bcy10173-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<p align="center"><b>“Learn continuously. Build consistently. Make an impact.”</b></p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+</div>
