@@ -123,7 +123,6 @@ I enjoy reading real-world code, tracking down bugs, writing tests, and learning
 
 ---
 
-## 📊 GitHub Analytics
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=aditya25bcy10173-a11y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
