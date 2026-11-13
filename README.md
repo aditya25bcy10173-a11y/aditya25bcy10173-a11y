@@ -13,6 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/aditya25bcy10173-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/_aditya_kumar07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-414294380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/results?search_query=Aditya+07+Vlogs"><img src="https://img.shields.io/badge/YouTube-Aditya%2007%20Vlogs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
@@ -178,6 +180,8 @@ Coding is a big part of my life, but I also enjoy creating videos and documentin
 
 <p align="center">
   <a href="https://github.com/aditya25bcy10173-a11y"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/_aditya_kumar07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-414294380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/results?search_query=Aditya+07+Vlogs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
