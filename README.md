@@ -67,7 +67,7 @@ Hey! I'm **Aditya**, a computer science student who loves turning ideas into wor
 
 I enjoy exploring production codebases, debugging issues, writing tests, and collaborating through pull requests. I've worked with projects including **Rocket.Chat**, **Rocket.Chat.ReactNative**, **Kubeflow Pipelines**, and **Rocket.Chat Docker Official Image**.
 
-[![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-Open%20Source- F5455C?style=flat-square)](https://github.com/RocketChat)
+[![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-Open%20Source-F5455C?style=flat-square)](https://github.com/RocketChat)
 [![Kubeflow](https://img.shields.io/badge/Kubeflow-Contributor-0033AD?style=flat-square)](https://github.com/kubeflow)
 
 ## 📊 GitHub Analytics
