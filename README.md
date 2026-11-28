@@ -3,12 +3,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya25bcy10173-a11y&label=PROFILE%20VISITORS&color=00b4d8&style=for-the-badge" alt="Profile visitors"/>
-  <img src="https://img.shields.io/badge/FOCUS-GSoC%202027-8957e5?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2027"/>
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-Contributor-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00B4D8&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Building+projects+and+learning+by+doing;Exploring+AI%2C+ML%2C+Deep+Learning+%26+GenAI;Frontend+Development+%7C+Problem+Solving;Contributing+to+Open+Source+%F0%9F%8C%8D;Preparing+for+Google+Summer+of+Code+2027" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=00B4D8&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Aditya+Kumar+%F0%9F%91%8B;Building+projects+and+learning+by+doing;Exploring+AI%2C+ML%2C+Deep+Learning+%26+GenAI;Frontend+Development+%7C+Problem+Solving;Contributing+to+Open+Source+%F0%9F%8C%8D;Growing+through+Open+Source+Contributions" alt="Animated introduction"/>
 </p>
 
 <p align="center">
@@ -28,7 +27,7 @@ Hey! I'm **Aditya**, a computer science student who loves building things, solvi
 - 💻 Interested in **Frontend Development, Software Development, and Problem Solving**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and RAG**
 - 🌍 Learning through real-world open-source codebases and contributions
-- 🎯 Preparing for **Google Summer of Code 2027**
+- 🎯 Focused on becoming a stronger software engineer through consistent learning and contributions
 - 📹 Outside coding, I create videos for my YouTube channel
 
 ---
@@ -47,7 +46,7 @@ Hey! I'm **Aditya**, a computer science student who loves building things, solvi
   AI / ML       : Machine Learning • Deep Learning • GenAI • RAG
   Tools         : Git • GitHub • Docker • Node.js
   Open Source   : Rocket.Chat • Kubeflow • More
-  Current Goal  : GSoC 2027 🚀
+  Current Goal  : Open Source & Software Engineering 🚀
 
 ┌──(aditya㉿developer)-[~/journey]
 └─$ echo "Build. Learn. Contribute. Repeat."
@@ -159,7 +158,7 @@ I enjoy reading real-world code, tracking down bugs, writing tests, and learning
 - 📚 Strengthening Data Structures & Algorithms and core CS fundamentals
 - 💡 Building useful projects in frontend and AI/ML
 - 🌱 Making meaningful open-source contributions
-- 🚀 Preparing for Google Summer of Code 2027
+- 🚀 Building strong software engineering skills through real-world contributions
 - 🧪 Learning by testing, debugging, reviewing, and shipping code
 
 ---
